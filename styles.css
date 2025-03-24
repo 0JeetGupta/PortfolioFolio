@@ -599,7 +599,7 @@ footer {
         right: -100%;
         flex-direction: column;
         background-color: var(--dark-bg);
-        width: 80%;
+        width: 50%;
         max-width: 300px;
         height: calc(100vh - 60px);
         padding: 20px;
